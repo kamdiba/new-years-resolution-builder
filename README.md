@@ -46,7 +46,7 @@ By the end of the process, you'll have:
 
 ### Step 1: Download the Tool
 
-📥 **[Download the Resolution Builder](https://github.com/kamdiba/new-years-resolution-builder/releases/latest/download/new-years-resolution-builder.txt)**
+📥 **[Download the Resolution Builder](https://github.com/kamdiba/new-years-resolution-builder/releases/download/v1.0.0/new-years-resolution-builder.txt)**
 
 Or [view the raw file here](https://raw.githubusercontent.com/kamdiba/new-years-resolution-builder/main/new-years-resolution-builder.txt) (right-click → Save As)
 
@@ -187,7 +187,7 @@ MIT License - Use it, modify it, share it. Just don't be a jerk.
 
 ## Ready to Build Your 2026 Resolution?
 
-📥 **[Download the tool](https://github.com/kamdiba/new-years-resolution-builder/releases/latest/download/new-years-resolution-builder.txt)** and get started.
+📥 **[Download the tool](https://github.com/kamdiba/new-years-resolution-builder/releases/download/v1.0.0/new-years-resolution-builder.txt)** and get started.
 
 Stop setting vague wishes. Start building real plans.
 
